@@ -1,2 +1,2 @@
 # tp1-mobile
-<h1>Mohamed Hedi Khemiri + Mohamed Boutaieb 
+<h1>Mohamed Boutaieb 
